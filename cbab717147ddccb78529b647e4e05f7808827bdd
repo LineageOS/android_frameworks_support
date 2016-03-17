@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_6ce1efd0",
+        "filename": "v4/donut/android/support/v4/graphics/drawable/DrawableWrapperDonut.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 9199
+      },
+      "writtenOn": "2016-03-17T15:40:33Z",
+      "side": 1,
+      "message": "remove unused import",
+      "revId": "cbab717147ddccb78529b647e4e05f7808827bdd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
