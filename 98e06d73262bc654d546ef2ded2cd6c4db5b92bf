@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_7a50c133",
+        "filename": "v4/donut/android/support/v4/graphics/drawable/DrawableWrapperDonut.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 257,
+      "author": {
+        "id": 9045
+      },
+      "writtenOn": "2016-03-17T21:31:17Z",
+      "side": 0,
+      "message": "are we changing the behavior here by removing the reset?",
+      "range": {
+        "startLine": 257,
+        "startChar": 12,
+        "endLine": 257,
+        "endChar": 34
+      },
+      "revId": "98e06d73262bc654d546ef2ded2cd6c4db5b92bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
